@@ -5,6 +5,7 @@ Rather than focusing on recall frequency alone, the analysis groups recalls base
 
 This repository contains the **clustering pipeline, which I led as part of a team project.
 
+---
 
 ## Abstract
 Vehicle recalls are a critical indicator of automotive safety risk, yet severity is often discussed only in aggregate counts.  
@@ -35,7 +36,6 @@ The analysis follows a structured clustering pipeline:
 - Large manufacturers (e.g., GM, Ford, Chrysler) dominate absolute recall counts, but **smaller manufacturers exhibit higher proportional rates of severe recalls**.
 - Temporal analysis shows a rise in high-severity recalls beginning in the 1990s, aligning with increasing vehicle complexity and regulatory changes.
 
----
 
 ## Code
 The analysis is organized into three notebooks to emphasize clarity and reproducibility:
